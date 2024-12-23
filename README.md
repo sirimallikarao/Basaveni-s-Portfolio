@@ -2,9 +2,6 @@
 
 🌟 A modern, animated portfolio website showcasing my journey as a Full Stack Developer and AI Enthusiast.
 
-## 🚀 Live Demo
-
-[View Portfolio](https://sirimallikarao-portfolio.netlify.app)
 
 ## ✨ Features
 
